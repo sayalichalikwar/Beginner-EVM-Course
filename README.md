@@ -8,7 +8,7 @@ I have a Project to create contract. In that I created a contract name as MyToke
 ### Operation 
 
 * I used Online Remix IDE compiler for writing the solidity code Program with a version.
-* I created a file which is in the repository named as second.sol .
+* I created a file which is in the repository named as Second.sol .
 
 ### Installing
 
